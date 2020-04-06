@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/sync/semaphore"
 
-	"github.com/picatz/doh/core"
-	"github.com/picatz/doh/core/sources"
+	"github.com/geraldvillorente/doh/core"
+	"github.com/geraldvillorente/doh/core/sources"
 
 	"github.com/spf13/cobra"
 )
